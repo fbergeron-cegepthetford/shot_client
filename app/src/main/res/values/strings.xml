@@ -2,4 +2,5 @@
     <string name="app_name">SHOT_client</string>
     <string name="citation">Obtenir une citation</string>
     <string name="fait">Obtenir un fait</string>
+    <string name="auteur_date">par %s - %s</string>
 </resources>
