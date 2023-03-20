@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SHOT_client</string>
+    <string name="citation">Obtenir une citation</string>
+    <string name="fait">Obtenir un fait</string>
+</resources>
